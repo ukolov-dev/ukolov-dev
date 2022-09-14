@@ -1,7 +1,5 @@
 <div align='center'><h1> Sergey Ukolov </h1></div>
-<div align="center">
-</a><a href="https://www.linkedin.com/in/sergey-ukolov" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/ukolov_93" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
-</div>
+
 
 - 🔭 I’m currently working on  **Frontend Development**
 
@@ -18,4 +16,11 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/ukolov-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<!-- <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
+<a href="https://www.linkedin.com/in/sergey-ukolov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--  <a href="https://medium.com/@" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 </p>
