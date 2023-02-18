@@ -1,6 +1,5 @@
 <div align='center'><h1> Hey! Nice to see you. </h1></div>
 
-
 - 🔭 I’m currently working on  **Software Development**
 
 <h3>Things I code with</h3>
